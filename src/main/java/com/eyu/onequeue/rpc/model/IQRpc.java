@@ -1,4 +1,4 @@
-package com.eyu.onequeue.proxy.model.rpc;
+package com.eyu.onequeue.rpc.model;
 /**
  * 
  * @author solq
